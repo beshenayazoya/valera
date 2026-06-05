@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1780572150,
+	"version": 1780643951,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/sprite9-sheet0.png",
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
+		"media/stereo_madness__every_end_remix_.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
